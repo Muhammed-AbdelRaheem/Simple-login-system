@@ -1,0 +1,49 @@
+.main{
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.container{
+    box-shadow: -5px 2px 54px -9px black;
+    background-color: #24353f;
+
+}
+
+.main .container h1
+
+{color: #17a2b8;
+font-family: Titillium Web;}
+
+
+.main .container input{
+    background-color:#24353f ;
+}
+
+.main .container input::placeholder{
+    color:#A8B6B6 ;
+}
+
+.main .container input:focus{
+    box-shadow: none;
+}
+.main .container .btn:hover{
+    color: white;
+}
+
+
+
+.main .bg-body-tertiary {
+    background-color:#24353f !important ;
+    box-shadow: -5px 2px 54px -9px black;
+
+}
+
+
+
+.navbar .btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: #41486e;
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+.navbar .btn{padding: 10px;}
